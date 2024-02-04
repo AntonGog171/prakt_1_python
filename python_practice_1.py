@@ -1,0 +1,1 @@
+print("Anton Hohol, KN_Group_2")
